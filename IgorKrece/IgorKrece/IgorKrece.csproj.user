@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="DodajVozaca.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DodavanjeProizvodjaca.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Izmeni.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="IzmeniP.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="IzmeniProizvodjaca.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NoviTrkac.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="DodajVozaca.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DodavanjeProizvodjaca.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Izmeni.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="IzmeniP.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="IzmeniProizvodjaca.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="NoviTrkac.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

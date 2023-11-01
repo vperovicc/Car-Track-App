@@ -1,0 +1,34 @@
+ <TabItem Header="Proizvodjaci">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="2*" />
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Leva strana sa TreeView-om proizvođača -->
+                    <TreeView x:Name="treeProizvodjaci" Margin="10" ItemsSource="{Binding Modeli}" >
+                        <TreeView.Resources>
+                            <HierarchicalDataTemplate DataType="{x:Type local:ProTemp}" ItemsSource="{Binding Proizvodi}">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="{Binding Ime}"/>
+                                    
+                                </StackPanel>
+                            </HierarchicalDataTemplate>
+                            <DataTemplate DataType="{x:Type local:Proizvodjac}">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="{Binding ID}" FontWeight="Bold"/>
+                                    <TextBlock Text=": "/>
+                                    <TextBlock Text="{Binding Naziv}"/>
+                                    <TextBlock Text=" "/>
+                                    <TextBlock Text="{Binding Sediste}"/>
+                                    
+                                    <Image Source="{Binding Logo}" Stretch="Uniform" Height="80" Width="40"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </TreeView.Resources>
+                    </TreeView>
+
+                    <!-- Desna strana sa slikom Evrope -->
+                    <Image Grid.Column="1" x:Name="imgEvropa" Source="evropa.jpg" Stretch="Uniform" />
+                </Grid>
+            </TabItem>

@@ -1,0 +1,69 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="bmw.jpg" />
+    <None Remove="cetrnaesti.jpg" />
+    <None Remove="cetvrti.jpg" />
+    <None Remove="deseti.jpg" />
+    <None Remove="deveti.jpg" />
+    <None Remove="drugi.jpg" />
+    <None Remove="evropa.jpg" />
+    <None Remove="ford.jpg" />
+    <None Remove="jedanaesti.jpg" />
+    <None Remove="mercedes.jpg" />
+    <None Remove="mits.jpg" />
+    <None Remove="niss.jpg" />
+    <None Remove="osamnaesti.jpg" />
+    <None Remove="osmi.jpg" />
+    <None Remove="peti.jpg" />
+    <None Remove="petnaesti.jpg" />
+    <None Remove="prvi.jpg" />
+    <None Remove="sedamnaesti.jpg" />
+    <None Remove="sedmi.jpg" />
+    <None Remove="sesnaesti.jpg" />
+    <None Remove="sesti.jpg" />
+    <None Remove="SlikaMape.jpg" />
+    <None Remove="suzuki.jpg" />
+    <None Remove="treci.jpg" />
+    <None Remove="trinaesti.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="cetvrti.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="deseti.jpg" />
+    <Content Include="deveti.jpg" />
+    <Content Include="drugi.jpg" />
+    <Content Include="evropa.jpg" />
+    <Content Include="mercedes.jpg" />
+    <Content Include="osmi.jpg" />
+    <Content Include="peti.jpg" />
+    <Content Include="prvi.jpg" />
+    <Content Include="sedmi.jpg" />
+    <Content Include="sesti.jpg" />
+    <Resource Include="bmw.jpg" />
+	 <Resource Include="cetvrti.jpg" />
+    <Content Include="treci.jpg" />
+    <Resource Include="cetrnaesti.jpg" />
+    <Resource Include="ford.jpg" />
+    <Resource Include="jedanaesti.jpg" />
+    <Resource Include="mits.jpg" />
+    <Resource Include="niss.jpg" />
+    <Resource Include="osamnaesti.jpg" />
+    <Resource Include="petnaesti.jpg" />
+    <Resource Include="sedamnaesti.jpg" />
+    <Resource Include="sesnaesti.jpg" />
+    <Resource Include="SlikaMape.jpg" />
+    <Resource Include="suzuki.jpg" />
+    <Resource Include="trinaesti.jpg" />
+  </ItemGroup>
+
+</Project>

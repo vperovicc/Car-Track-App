@@ -1,0 +1,123 @@
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece_MarkupCompile.cache
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece_MarkupCompile.lref
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.exe
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.deps.json
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.runtimeconfig.json
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.dll
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.pdb
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.g.resources
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.dll
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\refint\IgorKrece.dll
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.pdb
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\ref\IgorKrece.dll
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece_Content.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\cetvrti.jpg
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\OOT\Priprema\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\OOT\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.exe
+C:\OOT\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\cetvrti.jpg
+C:\OOT\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.deps.json
+C:\OOT\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.runtimeconfig.json
+C:\OOT\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.dll
+C:\OOT\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\ref\IgorKrece.dll
+C:\OOT\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.pdb
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.csproj.AssemblyReference.cache
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\App.g.cs
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece_Content.g.cs
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece_MarkupCompile.cache
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece_MarkupCompile.lref
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\MainWindow.baml
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.g.resources
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.AssemblyInfoInputs.cache
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.AssemblyInfo.cs
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.csproj.CoreCompileInputs.cache
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.dll
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\ref\IgorKrece.dll
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.pdb
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.genruntimeconfig.cache
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\Izmeni.baml
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\Izmeni.g.cs
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\DodajVozaca.baml
+C:\OOT\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\DodajVozaca.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\DodajVozaca.baml
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\Izmeni.baml
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\DodajVozaca.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\Izmeni.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece_Content.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece_MarkupCompile.cache
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece_MarkupCompile.lref
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.dll
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\refint\IgorKrece.dll
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.pdb
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.exe
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\cetvrti.jpg
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.deps.json
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.runtimeconfig.json
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.dll
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.pdb
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.g.resources
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\ref\IgorKrece.dll
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IzmeniProizvodjaca.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IzmeniProizvodjaca.baml
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IzmeniP.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IzmeniP.baml
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\DodavanjeProizvodjaca.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\DodavanjeProizvodjaca.baml
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\NoviTrkac.g.cs
+C:\Users\hp\OneDrive\Радна површина\FAHXCK\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\NoviTrkac.baml
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.exe
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\cetvrti.jpg
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.deps.json
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.runtimeconfig.json
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.dll
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\bin\Debug\net6.0-windows\IgorKrece.pdb
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\DodajVozaca.baml
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\Izmeni.baml
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\DodajVozaca.g.cs
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\DodavanjeProizvodjaca.g.cs
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\Izmeni.g.cs
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IzmeniP.g.cs
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IzmeniProizvodjaca.g.cs
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\NoviTrkac.g.cs
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece_Content.g.cs
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece_MarkupCompile.cache
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece_MarkupCompile.lref
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\DodavanjeProizvodjaca.baml
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IzmeniP.baml
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IzmeniProizvodjaca.baml
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\NoviTrkac.baml
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.g.resources
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.AssemblyInfoInputs.cache
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.AssemblyInfo.cs
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.csproj.CoreCompileInputs.cache
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.dll
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\refint\IgorKrece.dll
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.pdb
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\IgorKrece.genruntimeconfig.cache
+C:\Users\vukas\Desktop\Projektant\IgorKrece\IgorKrece\obj\Debug\net6.0-windows\ref\IgorKrece.dll
